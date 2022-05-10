@@ -14,3 +14,16 @@
 Full, comprehensive documentation is available on the Terraform website:
 
 https://terraform.io/docs/providers/aws/index.html
+
+## Provision AWS Infrastructure
+
+
+# # 1. Create VPC
+# # 2. Create internet gateway
+# # 3. Create custom route table for ipv4 and ipv6
+# # 4. Create a subnet for webserver
+# # 5. Associate subnet with route table 
+# # 6. Create a security group for webserver
+# # 7.Allow network interface (Private iP)
+# # 8.Create elastic ip for public access
+# # 9. Create ubuntu instance
