@@ -1,6 +1,5 @@
-<a href="https://terraform.io">
-    <img src=".github/terraform_logo.svg" alt="Terraform logo" title="Terraform" align="right" height="50" />
-</a>
+
+<img alt="Terraform" src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.svg" width="600px">
 
 # Terraform Provider for AWS
 
