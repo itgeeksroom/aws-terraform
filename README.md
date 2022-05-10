@@ -32,7 +32,3 @@ https://terraform.io/docs/providers/aws/index.html
 
 Provision AWS
 
-# hellow aws
-lets roll
-
-#have fun
