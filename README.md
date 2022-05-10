@@ -28,3 +28,6 @@ https://terraform.io/docs/providers/aws/index.html
 9. Create ubuntu instance with metadata
 
 
+# local development
+
+Provision AWS
